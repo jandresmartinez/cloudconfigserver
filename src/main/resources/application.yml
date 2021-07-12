@@ -13,7 +13,3 @@ spring:
           searchPaths: 'configurations'
 
 
-#logging:
-#  config: "classpath:logback.xml"
-#  path: ${PROTEUS_CONFIG_SERVER_LOGS_FOLDER:C:/Nahual/Proteus/logs/}
-#  name: ${spring.application.name}
